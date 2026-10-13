@@ -34,3 +34,7 @@ Geliştirme sunucusunu başlatmak için:
 npm start
 ```
 Telefonunuzda **Expo Go** uygulamasını açıp terminalde beliren QR kodu okutarak test edebilirsiniz.
+
+## 📄 Lisans
+
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
